@@ -1,0 +1,14 @@
+	(1)	(2)
+VARIABLES	ln_gdp_per_capita	ln_gdp_per_capita
+		
+ln_population	-0.314***	-0.314***
+	(0.0267)	(0.0267)
+o.ln_dist	-	-
+		
+Constant	13.87***	13.87***
+	(0.412)	(0.412)
+		
+Observations	5,015	5,015
+R-squared	0.978	0.978
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
